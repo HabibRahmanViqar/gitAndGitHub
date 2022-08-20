@@ -1,7 +1,6 @@
 this is the first of branches in the chapter one.
 
 
-New work added to the chapter one.
-
+I am creating a conflict merge from branch-one
 
 This is the end of the chapter one.
