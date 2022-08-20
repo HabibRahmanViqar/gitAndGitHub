@@ -1,11 +1,8 @@
 this is the first of branches in the chapter one.
 
 
-<<<<<<< HEAD
 Something that is not same as chapter one.
-=======
-New work added to the chapter one.
->>>>>>> parent of 0e8b335 (commit five on branch-one - creating a merge conflict)
+
 
 
 This is the end of the chapter one.
