@@ -8,3 +8,5 @@ Something that is not same as chapter one.
 This is the end of the chapter one.
 
 This was added to the chapter one in the master.
+
+This is some local changes Feature A branche
